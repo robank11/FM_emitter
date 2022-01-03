@@ -1,0 +1,257 @@
+Added Component: Designator=C1(C 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=CON1(3F07_PK)
+Add component (AddParameter): Name = "BOM名称"; Value = "3.5mm耳机插座"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=CON?(RCA RJ-255)
+Add component (AddParameter): Name = "BOM名称"; Value = "RCA莲花头AV座"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=E1(CD C(6032))
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(KF2EDGK5.0-LI-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=L1(L)
+Add component (AddParameter): Name = "BOM名称"; Value = "工字电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=L2(L)
+Add component (AddParameter): Name = "BOM名称"; Value = "工字电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=L3(L)
+Add component (AddParameter): Name = "BOM名称"; Value = "工字电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED 0805B)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=MIC1(MIC-6*5.5mm)
+Add component (AddParameter): Name = "BOM名称"; Value = "电容麦克风"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT23-3M)
+Add component (AddParameter): Name = "BOM名称"; Value = "低噪放大-NPN型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT23-3M)
+Add component (AddParameter): Name = "BOM名称"; Value = "低噪放大-NPN型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT23-3M)
+Add component (AddParameter): Name = "BOM名称"; Value = "低噪放大-NPN型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R 0805_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=CON1-1
+Added Pin To Net: NetName=GND Pin=E1-2
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=MIC1-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C8-1
+Added Pin To Net: NetName=NetC1_2 Pin=L1-2
+Added Pin To Net: NetName=NetC1_2 Pin=Q2-3
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C10-1
+Added Pin To Net: NetName=NetC2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R3-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=Q1-3
+Added Pin To Net: NetName=NetC2_2 Pin=R2-1
+Added Pin To Net: NetName=NetC2_2 Pin=R6-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=C6-1
+Added Pin To Net: NetName=NetC4_2 Pin=L2-2
+Added Pin To Net: NetName=NetC4_2 Pin=Q3-3
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=L3-2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=P3-3
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=MIC1-1
+Added Pin To Net: NetName=NetC7_2 Pin=R1-1
+Added Pin To Net: NetName=NetC7_2 Pin=R7-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=C9-1
+Added Pin To Net: NetName=NetC8_2 Pin=C11-1
+Added Pin To Net: NetName=NetC8_2 Pin=Q2-2
+Added Pin To Net: NetName=NetC8_2 Pin=R9-2
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=Q3-1
+Added Pin To Net: NetName=NetC9_2 Pin=R5-1
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=Q3-2
+Added Pin To Net: NetName=NetC12_1 Pin=R10-2
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=P3-1
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=R11-1
+Added Pin To Net: NetName=NetC13_2 Pin=R12-1
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetCON1_2 Pin=CON1-2
+Added Pin To Net: NetName=NetCON1_2 Pin=CON1-3
+Added Pin To Net: NetName=NetCON1_2 Pin=R11-2
+Added Net: Name=NetCON1_2
+Added Pin To Net: NetName=NetCON1_4 Pin=CON1-4
+Added Pin To Net: NetName=NetCON1_4 Pin=CON1-5
+Added Pin To Net: NetName=NetCON1_4 Pin=CON1-5
+Added Pin To Net: NetName=NetCON1_4 Pin=R12-2
+Added Net: Name=NetCON1_4
+Added Pin To Net: NetName=NetCON?_1 Pin=CON?-1
+Added Pin To Net: NetName=NetCON?_1 Pin=L3-1
+Added Net: Name=NetCON?_1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R4-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=Q1-1
+Added Pin To Net: NetName=NetP3_2 Pin=R6-2
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R8-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=E1-1
+Added Pin To Net: NetName=VCC Pin=JP1-1
+Added Pin To Net: NetName=VCC Pin=L1-1
+Added Pin To Net: NetName=VCC Pin=L2-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
